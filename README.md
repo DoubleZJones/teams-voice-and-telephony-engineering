@@ -53,3 +53,18 @@ Ensured compliance with E911 requirements by validating emergency addresses and 
 
 **Impact:**  
 Strengthened safety compliance and ensured accurate emergency response routing across the organization.
+
+---
+
+## 4. Departmental Call Queue Creation
+**Summary:**  
+Created Microsoft Teams call queues to support departmental workflows and improve call handling efficiency.
+
+**Key Actions:**  
+- Designed routing logic based on operational needs.  
+- Configured agents, greetings, and timeout behavior.  
+- Validated call flows end-to-end.  
+- Documented configuration for support teams.
+
+**Impact:**  
+Enhanced caller experience and improved internal responsiveness.
